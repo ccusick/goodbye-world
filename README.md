@@ -8,7 +8,4 @@
 #CREHclean - CSP energy creation and water sterilization using CREH engine
 #rawnet - wireless disk to disk system
 #CREH - cusick hybrid engine project
-#Robotics systems for nuclear power plant decommissioning and cleanup
 
-
-#Investors and developers welcome.
